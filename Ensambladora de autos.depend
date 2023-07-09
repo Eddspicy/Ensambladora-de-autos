@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1627272676 source:c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\examenes\examen 3 (equipo 8)\ensambladora de autos\main.c
+	"Robots.h"
+	"Linea de piezas.h"
+	"Linea de pintado.h"
+	"Bodega.h"
+
+1627272676 source:c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\examenes\examen 3 (equipo 8)\ensambladora de autos\robots.c
+	"Robots.h"
+
+1627259988 c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\examenes\examen 3 (equipo 8)\ensambladora de autos\robots.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1627260309 c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\examenes\examen 3 (equipo 8)\ensambladora de autos\linea de piezas.h
+	"Robots.h"
+
+1627268960 source:c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\examenes\examen 3 (equipo 8)\ensambladora de autos\linea de piezas.c
+	"Robots.h"
+	"Linea de piezas.h"
+
+1627272676 source:c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\examenes\examen 3 (equipo 8)\ensambladora de autos\linea de pintado.c
+	"Robots.h"
+	"Linea de piezas.h"
+	"Linea de pintado.h"
+
+1627260927 c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\examenes\examen 3 (equipo 8)\ensambladora de autos\linea de pintado.h
+	"Robots.h"
+	"Linea de piezas.h"
+
+1627265386 source:c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\examenes\examen 3 (equipo 8)\ensambladora de autos\bodega.c
+	"Robots.h"
+	"Linea de piezas.h"
+	"Linea de pintado.h"
+	"Bodega.h"
+
+1627263007 c:\users\lalod\documents\lalo\universidad\estructuras de datos y algoritmos\examenes\examen 3 (equipo 8)\ensambladora de autos\bodega.h
+	"Robots.h"
+	"Linea de piezas.h"
+	"Linea de pintado.h"
+
